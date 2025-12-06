@@ -1,1 +1,0 @@
-_FILE_NAME = 'D:/mipt/project_practical/videostreaming_platform.csv'
